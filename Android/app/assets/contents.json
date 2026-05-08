@@ -1,0 +1,37 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "haji_sanaullah_pack",
+      "name": "haji sanaullah",
+      "publisher": "the beast developers",
+      "tray_image_file": "tray_icon.png",
+      "publisher_email": "developer@example.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "abc1.webp",
+          "emoji": ["😇", "✨"]
+        },
+        {
+          "image_file": "abc2.webp",
+          "emoji": ["😊", "⭐"]
+        },
+        {
+          "image_file": "abc3.webp",
+          "emoji": ["🤲", "✅"]
+        },
+        {
+          "image_file": "abc4.webp",
+          "emoji": ["🙏", "❤️"]
+        }
+      ]
+    }
+  ]
+}
